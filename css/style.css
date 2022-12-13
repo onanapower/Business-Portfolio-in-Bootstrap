@@ -6,3 +6,18 @@
   background-color: #6960ec;
   border-color: #6960ec !important;
 }
+.SubHeading {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 10px 10px;
+}
+.showsNear {
+  margin: 10px 10px;
+  /* justify-content: space-between; */
+}
+.RoundAbout {
+  height: 200px;
+  width: 100px;
+  border-radius: 50%;
+}
