@@ -18,6 +18,19 @@
 }
 .RoundAbout {
   height: 200px;
-  width: 100px;
+  width: 200px;
   border-radius: 50%;
+  padding-top: 10px;
+}
+ul.show-icon {
+  background-color: #f1f1f1;
+  display: flex;
+  list-style: none;
+  height: 80px;
+  justify-content: center;
+  align-items: center;
+}
+footer {
+  display: grid;
+  width: 100%;
 }
